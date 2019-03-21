@@ -17,4 +17,4 @@
 |:--------:|:-------------:|
 |---------|--------------|
 - Add hashtag in the first line of each note path insteal of name
-## Date of pattern (v1.0): 2019-03-18
+## Date of pattern (v1.1): 2019-03-21
