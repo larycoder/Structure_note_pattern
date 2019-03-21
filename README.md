@@ -13,8 +13,10 @@
 - Help easily classify note
 ### Structure of hashtag:
 - On the top of Note.md ---> add hashtag table:
+
 | hashtag name |  hashtag description |
-|:------------:|----------------------|
-| #hashtag     | demo                 |
+|--------------|----------------------|
+| #hashtag     |         demo         |
+
 - Add #{hashtag} in the first line of each note path insteal of name
 ## Date of pattern (v1.1): 2019-03-21
