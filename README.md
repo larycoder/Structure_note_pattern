@@ -7,7 +7,7 @@
 ### Structure of note:
 - Begin part ---> name: {note content}
 - Command part ---> command + {newline} + {+ commend of note} [each line is 1 command]
-- Finish part: date ---> {date of note}
+- Finish part ---> date: {date of note}
 - Each note distinct by 1 spbace
 ## hashtag:
 - Help easily classify note
